@@ -20,4 +20,14 @@ and owners can view all responses in a dashboard.
 3. Owner can open `dashboard.html` to see all collected feedback.
 
 
+Live Demo  
 
+🔗 [Visit CafePulse on GitHub Pages](https://snehakumari27.github.io/CafePulse/)  
+
+
+
+ 🛠️ Setup Instructions  
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/snehakumari27/CafePulse.git
